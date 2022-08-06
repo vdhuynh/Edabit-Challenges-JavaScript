@@ -1,7 +1,7 @@
 # Edabit-Challenges-Javascript
 
-I'm learning through Edabit challenges, making notes to be able to learn and teach more effectively in Javascript. 
+Going through Edabit challenges, making notes to learn and teach more effectively in Javascript. 
 
-Even obvious notes are put in to make sure that I am able to understand clearly and communicate concisely to others what is happening.
+(Even obvious notes are put in [for me] to make sure that I am able to better communicate concisely to others [if I am teaching] what is happening and in a way that is accessible and relateable.)
 
 Thanks for reading!
