@@ -1,0 +1,11 @@
+//Create a function that takes an array containing only numbers and return the first element.
+
+function getFirstValue(arr) {
+	return arr[0];
+}
+
+//arr is a list (a collection of items)
+/*to access an element (the item in the list, e,g (numbers 1-4) = [1, 2, 3, 4]), use brackets with the name of the list 
+in front of the brackets: arr[0]*/
+//lists starts at index 0, not 1
+//index is the place of the element
