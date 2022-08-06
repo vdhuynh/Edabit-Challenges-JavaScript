@@ -1,0 +1,8 @@
+/*Create a function that takes two numbers as arguments and returns their sum.*/
+
+function addition(a, b) { // a, b are parameters that can stand for any number (argument) we want to put in later when we call the function.
+	return a + b;
+}
+
+//parameters = a, b
+//argument = addition(5, 4); 5 and 4 are arguments, a and b are parameters
