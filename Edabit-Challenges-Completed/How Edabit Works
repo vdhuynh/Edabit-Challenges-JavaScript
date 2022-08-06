@@ -1,0 +1,10 @@
+/*
+All you have to do is type return "hello edabit.com" between the curly braces { }.
+*/
+
+function hello() {
+	return "hello edabit.com"; 
+  
+  /* return is used to *store* (think of putting a tool we made into a box to be used for later) 
+  in a function rather than console.log() (used at the end of the program to see the result) */
+}
