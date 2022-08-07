@@ -1,0 +1,3 @@
+//Create a function that returns the given argument, but by using an arrow function.
+
+arrowFunc = (arg) => arg; //arrow functions don't use "function" but arrows instead; also doesn't use the word "return"
