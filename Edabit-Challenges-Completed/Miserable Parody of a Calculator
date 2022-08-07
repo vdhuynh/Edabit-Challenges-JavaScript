@@ -1,0 +1,7 @@
+// Create a function that will handle simple math expressions. The input is an expression in the form of a string.
+
+function calculator(str) {
+	return eval(str) 
+}
+
+// if the string has mathematical expressions, eval() can convert the str into the relevant data types and calculate the outcome
