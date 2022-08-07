@@ -1,0 +1,10 @@
+//Create a function that takes a number as its only argument and returns true if it's less than or equal to zero, otherwise return false.
+
+function lessThanOrEqualToZero(num) {
+	return num <= 0 ? true: false //conditional (ternary operator)
+}
+
+//the ternary operator allows for shorter code, not having to write if(num <= ) {true} else . . . and can be done in one line. 
+// the ? is the conditional (think that it's asking the question: is num <= 0 ?)
+//If the condition is true, the first statement after ? follows (true); if the condition is not true, then after the colon (:) false
+//Multiple ternary operators can be chained together
