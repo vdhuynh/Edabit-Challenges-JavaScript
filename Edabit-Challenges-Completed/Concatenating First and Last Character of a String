@@ -1,0 +1,5 @@
+//  Create a function that takes a string and returns the concatenated first and last character.
+
+function firstLast(name) {
+	return name[0] + name[name.length - 1] // javascript requires us to put the length in addition to the -1 (different than Python)
+}
