@@ -1,0 +1,5 @@
+//  Create a function that evaluates an equation.
+
+function eq(evaluate) {
+	return eval(evaluate);  // if the string is in the form of an equation, eval can convert and solve the equation
+}
