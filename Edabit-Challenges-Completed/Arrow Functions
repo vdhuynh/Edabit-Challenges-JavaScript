@@ -1,0 +1,15 @@
+/* Write five adder functions using arrow functions:
+
+add2(x) should return 2 + x.
+add3(x) should return 3 + x.
+add5(x) should return 5 + x.
+add7(x) should return 7 + x.
+add11(x) should return 11 + x. */
+
+add2 = x => x + 2;
+add3 = x => x + 3;
+add5 = x => x + 5;
+add7 = x => x + 7;
+add11 = x => x + 11;
+
+
